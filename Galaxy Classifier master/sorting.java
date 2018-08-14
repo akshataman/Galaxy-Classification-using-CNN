@@ -95,7 +95,7 @@ public class sorting extends javax.swing.JFrame {
 
         pack();
     }// </editor-fold>//GEN-END:initComponents
-
+// this is main method used for sorting images 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
     String y = in.getText();
     String[] x= y.split("\n");
